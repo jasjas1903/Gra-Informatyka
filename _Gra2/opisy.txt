@@ -1,0 +1,22 @@
+4
+0 Stoisz na drodze przed domem. Przed Toba uchylone drzwi.
+3
+1 3 wchodzisz do budynku
+99 2 idziesz w lewo
+99 1 idziesz w prawo
+99 Nie wszedleœ do budynku.
+2
+100 q konczysz gre
+0 1 wracasz przed budynek
+1 Stoisz w du¿ym holu. Tutaj jego opis. Mozesz z niego wyjsc na zewnatrz, wejœæ po schodach na piêtro, pojsc w lewo do biblioteki, ciemnymi drzwiami pod schodami wejsc do piwnic, wejsc do kuchni lub do gabinetu.
+6
+0 6 wychodzisz na zewnatrz
+2 5 wchodzisz na pietro
+3 4 wchodzisz do biblioteki
+4 3 wchodzisz do piwnic
+5 2 wchodzisz do kuchni
+6 1 wchodzisz do gabinetu
+5 Wszedles do kuchni. Nie ma z niej drugiego wyjscia. 
+2
+1 1 wracasz do holu
+5 p bierzesz noz
